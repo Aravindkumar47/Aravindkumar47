@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Aravindkumar47
+- 👀 I’m interested in java programming language 
+- 🌱 I’m currently learning web technologies
+- 💞️ I’m looking to collaborate on sql
+- 📫 mail: aravindkumar77804@gmail.com
